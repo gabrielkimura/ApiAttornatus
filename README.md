@@ -9,6 +9,6 @@ Teste técnico para vaga Desenvolvedor junior, Api Rest desenvolvida utilzando J
 2.	Em qual etapa da implementação você considera a qualidade de software?
   R: Acredito que desde o inicio do é necessario avaliar todos os critérios e garantir a qualidade.
 
-#Observações
+# Observações
 Para execução do projeto é necessário uma IDE como intellij ou eclipse e se atentar ao caminho do banco de dados definido no arquivo properties.
 
